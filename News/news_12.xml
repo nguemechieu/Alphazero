@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<weeklyevents>
+	<event>
+		<title>Monetary Policy Meeting Minutes</title>
+		<country>JPY</country>
+		<date><![CDATA[05-07-2023]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Building Approvals m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[3.0%]]></forecast>
+		<previous><![CDATA[4.0%]]></previous>
+	</event>
+	<event>
+		<title>NAB Business Confidence</title>
+		<country>AUD</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-1]]></previous>
+	</event>
+	<event>
+		<title>German Industrial Production m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-1.6%]]></forecast>
+		<previous><![CDATA[2.0%]]></previous>
+	</event>
+	<event>
+		<title>Bank Holiday</title>
+		<country>GBP</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>French Bank Holiday</title>
+		<country>EUR</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[7:02am]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Sentix Investor Confidence</title>
+		<country>EUR</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-7.9]]></forecast>
+		<previous><![CDATA[-8.7]]></previous>
+	</event>
+	<event>
+		<title>Final Wholesale Inventories m/m</title>
+		<country>USD</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.1%]]></forecast>
+		<previous><![CDATA[0.1%]]></previous>
+	</event>
+	<event>
+		<title>Loan Officer Survey</title>
+		<country>USD</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[6:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>FOMC Financial Stability Report</title>
+		<country>USD</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[8:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>BRC Retail Sales Monitor y/y</title>
+		<country>GBP</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[11:01pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[4.7%]]></forecast>
+		<previous><![CDATA[4.9%]]></previous>
+	</event>
+	<event>
+		<title>Average Cash Earnings y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[11:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1.0%]]></forecast>
+		<previous><![CDATA[1.1%]]></previous>
+	</event>
+	<event>
+		<title>Household Spending y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[05-08-2023]]></date>
+		<time><![CDATA[11:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.9%]]></forecast>
+		<previous><![CDATA[1.6%]]></previous>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>CNY</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[2:58am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[500B]]></forecast>
+		<previous><![CDATA[601B]]></previous>
+	</event>
+	<event>
+		<title>USD-Denominated Trade Balance</title>
+		<country>CNY</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[2:59am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[69.0B]]></forecast>
+		<previous><![CDATA[88.2B]]></previous>
+	</event>
+	<event>
+		<title>10-y Bond Auction</title>
+		<country>JPY</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[3:35am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.46|3.8]]></previous>
+	</event>
+	<event>
+		<title>Halifax HPI m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[6:02am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.8%]]></previous>
+	</event>
+	<event>
+		<title>French Trade Balance</title>
+		<country>EUR</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-9.5B]]></forecast>
+		<previous><![CDATA[-9.9B]]></previous>
+	</event>
+	<event>
+		<title>Annual Budget Release</title>
+		<country>AUD</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[9:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>NFIB Small Business Index</title>
+		<country>USD</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[10:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[89.6]]></forecast>
+		<previous><![CDATA[90.1]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Jefferson Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>IBD/TIPP Economic Optimism</title>
+		<country>USD</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[48.2]]></forecast>
+		<previous><![CDATA[47.4]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Williams Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[05-09-2023]]></date>
+		<time><![CDATA[4:05pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Leading Indicators</title>
+		<country>JPY</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[5:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[97.9%]]></forecast>
+		<previous><![CDATA[97.7%]]></previous>
+	</event>
+	<event>
+		<title>German Final CPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>Italian Industrial Production m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[-0.2%]]></previous>
+	</event>
+	<event>
+		<title>10-y Bond Auction</title>
+		<country>GBP</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[9:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[3.59|3.0]]></previous>
+	</event>
+	<event>
+		<title>German 30-y Bond Auction</title>
+		<country>EUR</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[9:35am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[2.31|1.1]]></previous>
+	</event>
+	<event>
+		<title>CPI m/m</title>
+		<country>USD</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.1%]]></previous>
+	</event>
+	<event>
+		<title>Core CPI m/m</title>
+		<country>USD</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>CPI y/y</title>
+		<country>USD</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[5.0%]]></forecast>
+		<previous><![CDATA[5.0%]]></previous>
+	</event>
+	<event>
+		<title>Building Permits m/m</title>
+		<country>CAD</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-2.3%]]></forecast>
+		<previous><![CDATA[8.6%]]></previous>
+	</event>
+	<event>
+		<title>Crude Oil Inventories</title>
+		<country>USD</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[2:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-2.2M]]></forecast>
+		<previous><![CDATA[-1.3M]]></previous>
+	</event>
+	<event>
+		<title>SNB Chairman Jordan Speaks</title>
+		<country>CHF</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[4:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>10-y Bond Auction</title>
+		<country>USD</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[5:01pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous><![CDATA[3.46|2.4]]></previous>
+	</event>
+	<event>
+		<title>Federal Budget Balance</title>
+		<country>USD</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[5:53pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[220.5B]]></forecast>
+		<previous><![CDATA[-378.1B]]></previous>
+	</event>
+	<event>
+		<title>FPI m/m</title>
+		<country>NZD</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[10:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.8%]]></previous>
+	</event>
+	<event>
+		<title>RICS House Price Balance</title>
+		<country>GBP</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[10:55pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-39%]]></forecast>
+		<previous><![CDATA[-43%]]></previous>
+	</event>
+	<event>
+		<title>BOJ Summary of Opinions</title>
+		<country>JPY</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Bank Lending y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[3.0%]]></forecast>
+		<previous><![CDATA[3.0%]]></previous>
+	</event>
+	<event>
+		<title>Current Account</title>
+		<country>JPY</country>
+		<date><![CDATA[05-10-2023]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1.31T]]></forecast>
+		<previous><![CDATA[1.09T]]></previous>
+	</event>
+	<event>
+		<title>MI Inflation Expectations</title>
+		<country>AUD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[1:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[4.6%]]></previous>
+	</event>
+	<event>
+		<title>CPI y/y</title>
+		<country>CNY</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[0.7%]]></previous>
+	</event>
+	<event>
+		<title>PPI y/y</title>
+		<country>CNY</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-3.3%]]></forecast>
+		<previous><![CDATA[-2.5%]]></previous>
+	</event>
+	<event>
+		<title>30-y Bond Auction</title>
+		<country>JPY</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[3:35am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[1.35|3.2]]></previous>
+	</event>
+	<event>
+		<title>Economy Watchers Sentiment</title>
+		<country>JPY</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[5:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[54.1]]></forecast>
+		<previous><![CDATA[53.3]]></previous>
+	</event>
+	<event>
+		<title>M2 Money Supply y/y</title>
+		<country>CNY</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[12.5%]]></forecast>
+		<previous><![CDATA[12.7%]]></previous>
+	</event>
+	<event>
+		<title>New Loans</title>
+		<country>CNY</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[1400B]]></forecast>
+		<previous><![CDATA[3890B]]></previous>
+	</event>
+	<event>
+		<title>Official Bank Rate</title>
+		<country>GBP</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[11:00am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[4.50%]]></forecast>
+		<previous><![CDATA[4.25%]]></previous>
+	</event>
+	<event>
+		<title>MPC Official Bank Rate Votes</title>
+		<country>GBP</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[11:00am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[7-0-2]]></forecast>
+		<previous><![CDATA[7-0-2]]></previous>
+	</event>
+	<event>
+		<title>Monetary Policy Summary</title>
+		<country>GBP</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[11:00am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>BOE Monetary Policy Report</title>
+		<country>GBP</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[11:00am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>BOE Gov Bailey Speaks</title>
+		<country>GBP</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[11:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>ECB President Lagarde Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Core PPI m/m</title>
+		<country>USD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[-0.1%]]></previous>
+	</event>
+	<event>
+		<title>PPI m/m</title>
+		<country>USD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[-0.5%]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Claims</title>
+		<country>USD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[245K]]></forecast>
+		<previous><![CDATA[242K]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Kashkari Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[1:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Mortgage Delinquencies</title>
+		<country>USD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[3.96%]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Waller Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[2:15pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Natural Gas Storage</title>
+		<country>USD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[2:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[78B]]></forecast>
+		<previous><![CDATA[54B]]></previous>
+	</event>
+	<event>
+		<title>30-y Bond Auction</title>
+		<country>USD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[5:04pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous><![CDATA[3.66|2.4]]></previous>
+	</event>
+	<event>
+		<title>BusinessNZ Manufacturing Index</title>
+		<country>NZD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[10:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[48.1]]></previous>
+	</event>
+	<event>
+		<title>Visitor Arrivals m/m</title>
+		<country>NZD</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[10:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.6%]]></previous>
+	</event>
+	<event>
+		<title>M2 Money Stock y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[05-11-2023]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.5%]]></forecast>
+		<previous><![CDATA[2.6%]]></previous>
+	</event>
+	<event>
+		<title>Inflation Expectations q/q</title>
+		<country>NZD</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[3:00am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous><![CDATA[3.30%]]></previous>
+	</event>
+	<event>
+		<title>GDP m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.0%]]></forecast>
+		<previous><![CDATA[0.0%]]></previous>
+	</event>
+	<event>
+		<title>Index of Services 3m/3m</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.1%]]></previous>
+	</event>
+	<event>
+		<title>Industrial Production m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.1%]]></forecast>
+		<previous><![CDATA[-0.2%]]></previous>
+	</event>
+	<event>
+		<title>Manufacturing Production m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.0%]]></forecast>
+		<previous><![CDATA[0.0%]]></previous>
+	</event>
+	<event>
+		<title>Construction Output m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.4%]]></forecast>
+		<previous><![CDATA[2.4%]]></previous>
+	</event>
+	<event>
+		<title>Goods Trade Balance</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-17.5B]]></forecast>
+		<previous><![CDATA[-17.5B]]></previous>
+	</event>
+	<event>
+		<title>Prelim GDP q/q</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0.1%]]></forecast>
+		<previous><![CDATA[0.0%]]></previous>
+	</event>
+	<event>
+		<title>Prelim Business Investment q/q</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.7%]]></forecast>
+		<previous><![CDATA[4.8%]]></previous>
+	</event>
+	<event>
+		<title>French Final CPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.6%]]></forecast>
+		<previous><![CDATA[0.6%]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Bowman Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>MPC Member Pill Speaks</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[11:15am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>NIESR GDP Estimate</title>
+		<country>GBP</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[11:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.1%]]></previous>
+	</event>
+	<event>
+		<title>Import Prices m/m</title>
+		<country>USD</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[-0.6%]]></previous>
+	</event>
+	<event>
+		<title>Prelim UoM Consumer Sentiment</title>
+		<country>USD</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[63.0]]></forecast>
+		<previous><![CDATA[63.5]]></previous>
+	</event>
+	<event>
+		<title>Prelim UoM Inflation Expectations</title>
+		<country>USD</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous><![CDATA[4.6%]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Jefferson Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[05-12-2023]]></date>
+		<time><![CDATA[11:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+</weeklyevents>

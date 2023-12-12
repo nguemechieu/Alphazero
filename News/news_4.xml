@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<weeklyevents>
+	<event>
+		<title>Building Consents m/m</title>
+		<country>NZD</country>
+		<date><![CDATA[07-02-2023]]></date>
+		<time><![CDATA[10:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-2.6%]]></previous>
+	</event>
+	<event>
+		<title>Tankan Non-Manufacturing Index</title>
+		<country>JPY</country>
+		<date><![CDATA[07-02-2023]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[22]]></forecast>
+		<previous><![CDATA[20]]></previous>
+	</event>
+	<event>
+		<title>Tankan Manufacturing Index</title>
+		<country>JPY</country>
+		<date><![CDATA[07-02-2023]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[3]]></forecast>
+		<previous><![CDATA[1]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>JPY</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[49.8]]></forecast>
+		<previous><![CDATA[49.8]]></previous>
+	</event>
+	<event>
+		<title>MI Inflation Gauge m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[1:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.9%]]></previous>
+	</event>
+	<event>
+		<title>ANZ Job Advertisements m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.1%]]></previous>
+	</event>
+	<event>
+		<title>Building Approvals m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[3.1%]]></forecast>
+		<previous><![CDATA[-8.1%]]></previous>
+	</event>
+	<event>
+		<title>Caixin Manufacturing PMI</title>
+		<country>CNY</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[1:45am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[50.0]]></forecast>
+		<previous><![CDATA[50.9]]></previous>
+	</event>
+	<event>
+		<title>Commodity Prices y/y</title>
+		<country>AUD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[6:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-22.2%]]></previous>
+	</event>
+	<event>
+		<title>CPI m/m</title>
+		<country>CHF</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[6:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>French Gov Budget Balance</title>
+		<country>EUR</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-83.7B]]></previous>
+	</event>
+	<event>
+		<title>Spanish Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[7:15am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[48.0]]></forecast>
+		<previous><![CDATA[48.4]]></previous>
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<country>CHF</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[7:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[42.8]]></forecast>
+		<previous><![CDATA[43.2]]></previous>
+	</event>
+	<event>
+		<title>Italian Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[7:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[45.4]]></forecast>
+		<previous><![CDATA[45.9]]></previous>
+	</event>
+	<event>
+		<title>French Final Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[7:50am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[45.5]]></forecast>
+		<previous><![CDATA[45.5]]></previous>
+	</event>
+	<event>
+		<title>German Final Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[7:55am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[41.0]]></forecast>
+		<previous><![CDATA[41.0]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[43.6]]></forecast>
+		<previous><![CDATA[43.6]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>GBP</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[46.2]]></forecast>
+		<previous><![CDATA[46.2]]></previous>
+	</event>
+	<event>
+		<title>Bank Holiday</title>
+		<country>CAD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>USD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[1:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[46.3]]></forecast>
+		<previous><![CDATA[46.3]]></previous>
+	</event>
+	<event>
+		<title>Construction Spending m/m</title>
+		<country>USD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[1.2%]]></previous>
+	</event>
+	<event>
+		<title>ISM Manufacturing Prices</title>
+		<country>USD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[44.0]]></forecast>
+		<previous><![CDATA[44.2]]></previous>
+	</event>
+	<event>
+		<title>ISM Manufacturing PMI</title>
+		<country>USD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[47.2]]></forecast>
+		<previous><![CDATA[46.9]]></previous>
+	</event>
+	<event>
+		<title>NZIER Business Confidence</title>
+		<country>NZD</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[10:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-66]]></previous>
+	</event>
+	<event>
+		<title>Monetary Base y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[07-03-2023]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.7%]]></forecast>
+		<previous><![CDATA[-1.1%]]></previous>
+	</event>
+	<event>
+		<title>10-y Bond Auction</title>
+		<country>JPY</country>
+		<date><![CDATA[07-04-2023]]></date>
+		<time><![CDATA[3:35am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.44|3.7]]></previous>
+	</event>
+	<event>
+		<title>Cash Rate</title>
+		<country>AUD</country>
+		<date><![CDATA[07-04-2023]]></date>
+		<time><![CDATA[4:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[4.10%]]></forecast>
+		<previous><![CDATA[4.10%]]></previous>
+	</event>
+	<event>
+		<title>RBA Rate Statement</title>
+		<country>AUD</country>
+		<date><![CDATA[07-04-2023]]></date>
+		<time><![CDATA[4:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>German Trade Balance</title>
+		<country>EUR</country>
+		<date><![CDATA[07-04-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[17.3B]]></forecast>
+		<previous><![CDATA[18.4B]]></previous>
+	</event>
+	<event>
+		<title>Spanish Unemployment Change</title>
+		<country>EUR</country>
+		<date><![CDATA[07-04-2023]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-63.5K]]></forecast>
+		<previous><![CDATA[-49.3K]]></previous>
+	</event>
+	<event>
+		<title>30-y Bond Auction</title>
+		<country>GBP</country>
+		<date><![CDATA[07-04-2023]]></date>
+		<time><![CDATA[9:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[4.48|2.6]]></previous>
+	</event>
+	<event>
+		<title>Bank Holiday</title>
+		<country>USD</country>
+		<date><![CDATA[07-04-2023]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<country>CAD</country>
+		<date><![CDATA[07-04-2023]]></date>
+		<time><![CDATA[1:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[49.0]]></previous>
+	</event>
+	<event>
+		<title>GDT Price Index</title>
+		<country>NZD</country>
+		<date><![CDATA[07-04-2023]]></date>
+		<time><![CDATA[2:15pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.0%]]></previous>
+	</event>
+	<event>
+		<title>ANZ Commodity Prices m/m</title>
+		<country>NZD</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[1:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.7%]]></forecast>
+		<previous><![CDATA[0.7%]]></previous>
+	</event>
+	<event>
+		<title>Caixin Services PMI</title>
+		<country>CNY</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[1:45am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[56.2]]></forecast>
+		<previous><![CDATA[57.1]]></previous>
+	</event>
+	<event>
+		<title>French Industrial Production m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.3%]]></forecast>
+		<previous><![CDATA[0.8%]]></previous>
+	</event>
+	<event>
+		<title>Spanish Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[7:15am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[55.8]]></forecast>
+		<previous><![CDATA[56.7]]></previous>
+	</event>
+	<event>
+		<title>Italian Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[7:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[53.0]]></forecast>
+		<previous><![CDATA[54.0]]></previous>
+	</event>
+	<event>
+		<title>French Final Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[7:50am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[48.0]]></forecast>
+		<previous><![CDATA[48.0]]></previous>
+	</event>
+	<event>
+		<title>German Final Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[7:55am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[54.1]]></forecast>
+		<previous><![CDATA[54.1]]></previous>
+	</event>
+	<event>
+		<title>Final Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[52.4]]></forecast>
+		<previous><![CDATA[52.4]]></previous>
+	</event>
+	<event>
+		<title>Final Services PMI</title>
+		<country>GBP</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[53.7]]></forecast>
+		<previous><![CDATA[53.7]]></previous>
+	</event>
+	<event>
+		<title>PPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-1.7%]]></forecast>
+		<previous><![CDATA[-3.2%]]></previous>
+	</event>
+	<event>
+		<title>OPEC Meetings</title>
+		<country>ALL</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[10:15am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>German 10-y Bond Auction</title>
+		<country>EUR</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[10:42am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[2.43|1.9]]></previous>
+	</event>
+	<event>
+		<title>Factory Orders m/m</title>
+		<country>USD</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.7%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>IBD/TIPP Economic Optimism</title>
+		<country>USD</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[2:03pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[45.3]]></forecast>
+		<previous><![CDATA[41.7]]></previous>
+	</event>
+	<event>
+		<title>Wards Total Vehicle Sales</title>
+		<country>USD</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[2:15pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[15.3M]]></forecast>
+		<previous><![CDATA[15.1M]]></previous>
+	</event>
+	<event>
+		<title>FOMC Meeting Minutes</title>
+		<country>USD</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[6:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>FOMC Member Williams Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[07-05-2023]]></date>
+		<time><![CDATA[8:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>AUD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[10.85B]]></forecast>
+		<previous><![CDATA[11.16B]]></previous>
+	</event>
+	<event>
+		<title>30-y Bond Auction</title>
+		<country>JPY</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[3:35am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[1.26|3.1]]></previous>
+	</event>
+	<event>
+		<title>German Factory Orders m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1.1%]]></forecast>
+		<previous><![CDATA[-0.4%]]></previous>
+	</event>
+	<event>
+		<title>Construction PMI</title>
+		<country>GBP</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[50.9]]></forecast>
+		<previous><![CDATA[51.6]]></previous>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.0%]]></previous>
+	</event>
+	<event>
+		<title>Spanish 10-y Bond Auction</title>
+		<country>EUR</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[10:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[3.51|1.4]]></previous>
+	</event>
+	<event>
+		<title>French 10-y Bond Auction</title>
+		<country>EUR</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[10:18am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[2.85|1.9]]></previous>
+	</event>
+	<event>
+		<title>Challenger Job Cuts y/y</title>
+		<country>USD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[11:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[286.7%]]></previous>
+	</event>
+	<event>
+		<title>ADP Non-Farm Employment Change</title>
+		<country>USD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[12:15pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[226K]]></forecast>
+		<previous><![CDATA[278K]]></previous>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>USD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-68.9B]]></forecast>
+		<previous><![CDATA[-74.6B]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Claims</title>
+		<country>USD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[247K]]></forecast>
+		<previous><![CDATA[239K]]></previous>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>CAD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1.4B]]></forecast>
+		<previous><![CDATA[1.9B]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Logan Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[12:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Final Services PMI</title>
+		<country>USD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[1:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[54.1]]></forecast>
+		<previous><![CDATA[54.1]]></previous>
+	</event>
+	<event>
+		<title>ISM Services PMI</title>
+		<country>USD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[51.3]]></forecast>
+		<previous><![CDATA[50.3]]></previous>
+	</event>
+	<event>
+		<title>JOLTS Job Openings</title>
+		<country>USD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[9.93M]]></forecast>
+		<previous><![CDATA[10.10M]]></previous>
+	</event>
+	<event>
+		<title>Crude Oil Inventories</title>
+		<country>USD</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[3:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-9.6M]]></previous>
+	</event>
+	<event>
+		<title>Average Cash Earnings y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[11:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1.2%]]></forecast>
+		<previous><![CDATA[1.0%]]></previous>
+	</event>
+	<event>
+		<title>Household Spending y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[07-06-2023]]></date>
+		<time><![CDATA[11:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-2.4%]]></forecast>
+		<previous><![CDATA[-4.4%]]></previous>
+	</event>
+	<event>
+		<title>Leading Indicators</title>
+		<country>JPY</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[5:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[97.5%]]></forecast>
+		<previous><![CDATA[97.6%]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>CHF</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[5:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.0%]]></forecast>
+		<previous><![CDATA[2.0%]]></previous>
+	</event>
+	<event>
+		<title>German Industrial Production m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.0%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>Halifax HPI m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.1%]]></forecast>
+		<previous><![CDATA[0.0%]]></previous>
+	</event>
+	<event>
+		<title>French Trade Balance</title>
+		<country>EUR</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-9.5B]]></forecast>
+		<previous><![CDATA[-9.7B]]></previous>
+	</event>
+	<event>
+		<title>Foreign Currency Reserves</title>
+		<country>CHF</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous><![CDATA[734B]]></previous>
+	</event>
+	<event>
+		<title>Italian Retail Sales m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.2%]]></forecast>
+		<previous><![CDATA[0.2%]]></previous>
+	</event>
+	<event>
+		<title>Housing Equity Withdrawal q/q</title>
+		<country>GBP</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[8:33am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-14.9B]]></previous>
+	</event>
+	<event>
+		<title>German Buba President Nagel Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Average Hourly Earnings m/m</title>
+		<country>USD</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>USD</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[3.6%]]></forecast>
+		<previous><![CDATA[3.7%]]></previous>
+	</event>
+	<event>
+		<title>Non-Farm Employment Change</title>
+		<country>USD</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[224K]]></forecast>
+		<previous><![CDATA[339K]]></previous>
+	</event>
+	<event>
+		<title>Employment Change</title>
+		<country>CAD</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[21.4K]]></forecast>
+		<previous><![CDATA[-17.3K]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>CAD</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[5.3%]]></forecast>
+		<previous><![CDATA[5.2%]]></previous>
+	</event>
+	<event>
+		<title>Ivey PMI</title>
+		<country>CAD</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[51.5]]></forecast>
+		<previous><![CDATA[53.5]]></previous>
+	</event>
+	<event>
+		<title>Natural Gas Storage</title>
+		<country>USD</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[2:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[76B]]></previous>
+	</event>
+	<event>
+		<title>MPC Member Mann Speaks</title>
+		<country>GBP</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[2:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>ECB President Lagarde Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[07-07-2023]]></date>
+		<time><![CDATA[4:45pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+</weeklyevents>

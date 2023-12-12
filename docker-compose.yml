@@ -1,0 +1,13 @@
+version: '3'
+services:
+  zones:
+    image: bigbossmanager/zones
+  db:
+    image: mysql
+    ports:
+    - "3307:3306"
+    environment:
+      - MYSQLROOT_PASSWORD=password
+      - MYSQL_USER=user
+      - MYSQL_PASSWORD=password
+      - MYSQL_DATABASE=db
