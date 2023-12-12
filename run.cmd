@@ -1,1 +1,1 @@
-python -m --user zones.py
+python -m alphazero
