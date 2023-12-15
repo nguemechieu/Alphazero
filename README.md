@@ -1,23 +1,23 @@
-# WELCOME  TO  ZONES  
+# WELCOME  TO  Alphazero
 
 PYTHON  AI  POWERED MetaTrader4 Software
 
-copyright (c) 2022 -2023  
+copyright (c) 2022 -2025  
 
 
-[![Docker Image CI](https://github.com/nguemechieu/ZONES/actions/workflows/docker-image.yml/badge.svg)](https://github.com/nguemechieu/ZONES/actions/workflows/docker-image.yml)
+[![Docker Image CI](https://github.com/nguemechieu/alphazero/actions/workflows/docker-image.yml/badge.svg)](https://github.com/nguemechieu/alphazero/actions/workflows/docker-image.yml)
 
-[![Docker](https://github.com/nguemechieu/ZONES/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/nguemechieu/ZONES/actions/workflows/docker-publish.yml)
-[![ZONES](https://github.com/nguemechieu/ZONES/actions/workflows/python-app.yml/badge.svg)](https://github.com/nguemechieu/ZONES/actions/workflows/python-app.yml)
-[![Upload Python Package](https://github.com/nguemechieu/ZONES/actions/workflows/python-publish.yml/badge.svg)](https://github.com/nguemechieu/ZONES/actions/workflows/python-publish.yml)
+[![Docker](https://github.com/nguemechieu/ZONES/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/nguemechieu/alphazero/actions/workflows/docker-publish.yml)
+[![ALPHAZERO](https://github.com/nguemechieu/ZONES/actions/workflows/python-app.yml/badge.svg)](https://github.com/nguemechieu/alphazero/actions/workflows/python-app.yml)
+[![Upload Python Package](https://github.com/nguemechieu/ZONES/actions/workflows/python-publish.yml/badge.svg)](https://github.com/nguemechieu/alphazero/actions/workflows/python-publish.yml)
 
-!['ZONES'](./src/images/zones_ea.png)
+!['ALPHAZERO'](./images/alphazero.png)
 
 
 
 # Description
 
-          ZONES   is a ai powered professional  
+          ALPHAZERO   is a ai powered professional  
           trading application using the standard platform MT4, MT5, and others
 
 # Architecture
@@ -38,7 +38,7 @@ copyright (c) 2022 -2023
 - Live trade copies
 - VPS
 - Upcoming features cryptocurrency trading Terminal integration
-  ![screenshot](MT4/Files/USDCHF5.gif)
+  ![screenshot](MT4/Images/File/alphazero.ico)
 
 # 
 Installation flow
@@ -61,5 +61,5 @@ OPERATING SYSTEM
 ## Virtual environment: DOCKER
 
 Commands
--          docker pull bigbossmanager/zones
--          docker run -p 5000:5000 bigbossmanager/zones
+-          docker pull bigbossmanager/alphazero
+-          docker run -p 5000:5000 bigbossmanager/alphazero
