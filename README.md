@@ -46,7 +46,7 @@ Installation flow
 !['alt text'](src/images/ZONESEA/Slide2.PNG)
 ## Documentation
 
-See documentation [click here !](src/docs/ZONESEA.pdf)
+See documentation [click here !](src/docs/Alphazero.pdf)
 
 
 

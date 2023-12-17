@@ -2,10 +2,10 @@
 FROM python:latest
 
 # Set the working directory in the container
-WORKDIR /zones
+WORKDIR /alphazero
 
 # Copy the Python script and other necessary files
-COPY  zones.py ./
+COPY  alphazero.py ./
 COPY . .
 
 
@@ -14,7 +14,7 @@ COPY . .
 EXPOSE 80
 
 # Run the Python script and start a simple web server
-CMD ["python", "zones.py"]
+CMD ["python", "alphazero.py"]
 
 # Add a command to open the default web browser after running the Python script
-CMD ["python", "-m", "webbrowser", "http://localhost"]
+CMD ["python", "-m", "webbrowser", "http://localhost:3000"]
