@@ -963,13 +963,4 @@
 		<forecast />
 		<previous />
 	</event>
-	<event>
-		<title>TIC Long-Term Purchases</title>
-		<country>USD</country>
-		<date><![CDATA[12-15-2023]]></date>
-		<time><![CDATA[9:00pm]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[45.8B]]></forecast>
-		<previous><![CDATA[-1.7B]]></previous>
-	</event>
 </weeklyevents>
