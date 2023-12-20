@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: Alphazero
+Version: 1.0.0
+Summary: AI-powered trading software for MetaTrader 4/5
+Home-page: https://github.com/nguemechieu/alphazero
+Author: Noel M nguemechieu
+Author-email: nguemechieu@live.com
+License: MIT
+Keywords: run,open,trade
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+Requires-Dist: requirements.txt
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
