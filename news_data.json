@@ -1,0 +1,322 @@
+[
+    {
+        "title": "Bank Holiday",
+        "country": "NZD",
+        "date": "2023-12-24T15:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "AUD",
+        "date": "2023-12-24T16:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "BOJ Gov Ueda Speaks",
+        "country": "JPY",
+        "date": "2023-12-24T23:00:00-05:00",
+        "impact": "Medium",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "CHF",
+        "date": "2023-12-25T01:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "French Bank Holiday",
+        "country": "EUR",
+        "date": "2023-12-25T02:01:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "German Bank Holiday",
+        "country": "EUR",
+        "date": "2023-12-25T02:02:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Italian Bank Holiday",
+        "country": "EUR",
+        "date": "2023-12-25T02:03:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "GBP",
+        "date": "2023-12-25T03:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "CAD",
+        "date": "2023-12-25T08:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "USD",
+        "date": "2023-12-25T08:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "NZD",
+        "date": "2023-12-25T15:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "AUD",
+        "date": "2023-12-25T16:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Unemployment Rate",
+        "country": "JPY",
+        "date": "2023-12-25T18:30:00-05:00",
+        "impact": "Low",
+        "forecast": "2.5%",
+        "previous": "2.5%"
+    },
+    {
+        "title": "SPPI y/y",
+        "country": "JPY",
+        "date": "2023-12-25T18:50:00-05:00",
+        "impact": "Low",
+        "forecast": "2.4%",
+        "previous": "2.3%"
+    },
+    {
+        "title": "BOJ Core CPI y/y",
+        "country": "JPY",
+        "date": "2023-12-26T00:00:00-05:00",
+        "impact": "Low",
+        "forecast": "3.0%",
+        "previous": "3.0%"
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "CHF",
+        "date": "2023-12-26T01:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "German Bank Holiday",
+        "country": "EUR",
+        "date": "2023-12-26T02:02:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Italian Bank Holiday",
+        "country": "EUR",
+        "date": "2023-12-26T02:03:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "GBP",
+        "date": "2023-12-26T03:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "CAD",
+        "date": "2023-12-26T08:00:00-05:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "HPI m/m",
+        "country": "USD",
+        "date": "2023-12-26T09:00:00-05:00",
+        "impact": "Low",
+        "forecast": "0.5%",
+        "previous": "0.6%"
+    },
+    {
+        "title": "S&P/CS Composite-20 HPI y/y",
+        "country": "USD",
+        "date": "2023-12-26T09:00:00-05:00",
+        "impact": "Low",
+        "forecast": "5.0%",
+        "previous": "3.9%"
+    },
+    {
+        "title": "BOJ Summary of Opinions",
+        "country": "JPY",
+        "date": "2023-12-26T18:50:00-05:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Housing Starts y/y",
+        "country": "JPY",
+        "date": "2023-12-27T00:00:00-05:00",
+        "impact": "Low",
+        "forecast": "-4.2%",
+        "previous": "-6.3%"
+    },
+    {
+        "title": "Credit Suisse Economic Expectations",
+        "country": "CHF",
+        "date": "2023-12-27T04:00:00-05:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": "-29.6"
+    },
+    {
+        "title": "Richmond Manufacturing Index",
+        "country": "USD",
+        "date": "2023-12-27T09:59:00-05:00",
+        "impact": "Medium",
+        "forecast": "-4",
+        "previous": "-5"
+    },
+    {
+        "title": "Prelim Industrial Production m/m",
+        "country": "JPY",
+        "date": "2023-12-27T18:50:00-05:00",
+        "impact": "Low",
+        "forecast": "-1.7%",
+        "previous": "1.0%"
+    },
+    {
+        "title": "Retail Sales y/y",
+        "country": "JPY",
+        "date": "2023-12-27T18:50:00-05:00",
+        "impact": "Low",
+        "forecast": "5.1%",
+        "previous": "4.2%"
+    },
+    {
+        "title": "Unemployment Claims",
+        "country": "USD",
+        "date": "2023-12-28T08:30:00-05:00",
+        "impact": "Medium",
+        "forecast": "211K",
+        "previous": "205K"
+    },
+    {
+        "title": "Goods Trade Balance",
+        "country": "USD",
+        "date": "2023-12-28T08:30:00-05:00",
+        "impact": "Low",
+        "forecast": "-88.6B",
+        "previous": "-89.8B"
+    },
+    {
+        "title": "Prelim Wholesale Inventories m/m",
+        "country": "USD",
+        "date": "2023-12-28T08:30:00-05:00",
+        "impact": "Low",
+        "forecast": "-0.2%",
+        "previous": "-0.2%"
+    },
+    {
+        "title": "Pending Home Sales m/m",
+        "country": "USD",
+        "date": "2023-12-28T10:00:00-05:00",
+        "impact": "Medium",
+        "forecast": "0.8%",
+        "previous": "-1.5%"
+    },
+    {
+        "title": "Natural Gas Storage",
+        "country": "USD",
+        "date": "2023-12-28T10:30:00-05:00",
+        "impact": "Low",
+        "forecast": "-80B",
+        "previous": "-87B"
+    },
+    {
+        "title": "Crude Oil Inventories",
+        "country": "USD",
+        "date": "2023-12-28T11:00:00-05:00",
+        "impact": "Low",
+        "forecast": "-2.7M",
+        "previous": "2.9M"
+    },
+    {
+        "title": "Nationwide HPI m/m",
+        "country": "GBP",
+        "date": "2023-12-29T02:00:00-05:00",
+        "impact": "Low",
+        "forecast": "0.1%",
+        "previous": "0.2%"
+    },
+    {
+        "title": "KOF Economic Barometer",
+        "country": "CHF",
+        "date": "2023-12-29T03:00:00-05:00",
+        "impact": "Low",
+        "forecast": "96.9",
+        "previous": "96.7"
+    },
+    {
+        "title": "Spanish Flash CPI y/y",
+        "country": "EUR",
+        "date": "2023-12-29T03:00:00-05:00",
+        "impact": "Medium",
+        "forecast": "3.2%",
+        "previous": "3.2%"
+    },
+    {
+        "title": "Chicago PMI",
+        "country": "USD",
+        "date": "2023-12-29T09:45:00-05:00",
+        "impact": "Medium",
+        "forecast": "50.1",
+        "previous": "55.8"
+    },
+    {
+        "title": "Manufacturing PMI",
+        "country": "CNY",
+        "date": "2023-12-30T20:30:00-05:00",
+        "impact": "Medium",
+        "forecast": "49.6",
+        "previous": "49.4"
+    },
+    {
+        "title": "Non-Manufacturing PMI",
+        "country": "CNY",
+        "date": "2023-12-30T20:30:00-05:00",
+        "impact": "Medium",
+        "forecast": "50.5",
+        "previous": "50.2"
+    }
+]
