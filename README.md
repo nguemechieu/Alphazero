@@ -1,6 +1,6 @@
 
 # AlphaZero Expert Advisor
-![alphazero][alphazero.png]
+![alphazero](alphazero.png)
 AlphaZero is an expert advisor designed for MetaTrader 4 that utilizes machine learning techniques for trading in the financial markets. It is developed by sopotek ,inc and is available for free use under the specified license. The expert advisor implements a strategy based on moving averages, risk management, and trade execution. Users can customize parameters such as fast and slow moving average periods, risk percentage per trade, stop loss distance, and maximum open orders. AlphaZero supports trading on a list of specified symbols or all available symbols, depending on user preferences. It includes functions for calculating lot size, checking trade conditions, and placing trades accordingly. The expert advisor is designed to provide a robust and adaptable trading solution for MetaTrader 4 users.
 
 ## Features
