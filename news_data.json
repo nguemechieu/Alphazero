@@ -1,570 +1,866 @@
 [
     {
-        "title": "Bank Holiday",
+        "title": "Prelim Industrial Production m/m",
         "country": "JPY",
-        "date": "2024-01-07T19:00:00-05:00",
-        "impact": "Holiday",
-        "forecast": "",
-        "previous": ""
-    },
-    {
-        "title": "German Factory Orders m/m",
-        "country": "EUR",
-        "date": "2024-01-08T02:00:00-05:00",
+        "date": "2025-03-30T19:50:00-04:00",
         "impact": "Low",
-        "forecast": "1.1%",
-        "previous": "-3.7%"
-    },
-    {
-        "title": "German Trade Balance",
-        "country": "EUR",
-        "date": "2024-01-08T02:00:00-05:00",
-        "impact": "Low",
-        "forecast": "17.9B",
-        "previous": "17.8B"
-    },
-    {
-        "title": "CPI m/m",
-        "country": "CHF",
-        "date": "2024-01-08T02:30:00-05:00",
-        "impact": "High",
-        "forecast": "-0.1%",
-        "previous": "-0.2%"
+        "forecast": "1.9%",
+        "previous": "-1.1%"
     },
     {
         "title": "Retail Sales y/y",
-        "country": "CHF",
-        "date": "2024-01-08T02:30:00-05:00",
+        "country": "JPY",
+        "date": "2025-03-30T19:50:00-04:00",
         "impact": "Low",
-        "forecast": "0.0%",
-        "previous": "-0.1%"
+        "forecast": "2.4%",
+        "previous": "3.9%"
     },
     {
-        "title": "Sentix Investor Confidence",
-        "country": "EUR",
-        "date": "2024-01-08T04:30:00-05:00",
-        "impact": "Low",
-        "forecast": "-15.5",
-        "previous": "-16.8"
-    },
-    {
-        "title": "Retail Sales m/m",
-        "country": "EUR",
-        "date": "2024-01-08T05:00:00-05:00",
-        "impact": "Low",
-        "forecast": "-0.3%",
-        "previous": "0.1%"
-    },
-    {
-        "title": "FOMC Member Bostic Speaks",
-        "country": "USD",
-        "date": "2024-01-08T12:30:00-05:00",
+        "title": "MI Inflation Gauge m/m",
+        "country": "AUD",
+        "date": "2025-03-30T20:00:00-04:00",
         "impact": "Low",
         "forecast": "",
-        "previous": ""
-    },
-    {
-        "title": "Consumer Credit m/m",
-        "country": "USD",
-        "date": "2024-01-08T15:00:00-05:00",
-        "impact": "Low",
-        "forecast": "8.9B",
-        "previous": "5.1B"
-    },
-    {
-        "title": "Tokyo Core CPI y/y",
-        "country": "JPY",
-        "date": "2024-01-08T18:30:00-05:00",
-        "impact": "Medium",
-        "forecast": "2.1%",
-        "previous": "2.3%"
-    },
-    {
-        "title": "Household Spending y/y",
-        "country": "JPY",
-        "date": "2024-01-08T18:30:00-05:00",
-        "impact": "Low",
-        "forecast": "-2.2%",
-        "previous": "-2.5%"
-    },
-    {
-        "title": "BRC Retail Sales Monitor y/y",
-        "country": "GBP",
-        "date": "2024-01-08T19:01:00-05:00",
-        "impact": "Low",
-        "forecast": "2.3%",
-        "previous": "2.6%"
-    },
-    {
-        "title": "Retail Sales m/m",
-        "country": "AUD",
-        "date": "2024-01-08T19:30:00-05:00",
-        "impact": "Medium",
-        "forecast": "1.2%",
         "previous": "-0.2%"
     },
     {
-        "title": "Building Approvals m/m",
-        "country": "AUD",
-        "date": "2024-01-08T19:30:00-05:00",
+        "title": "ANZ Business Confidence",
+        "country": "NZD",
+        "date": "2025-03-30T20:00:00-04:00",
         "impact": "Low",
-        "forecast": "-1.9%",
-        "previous": "7.5%"
-    },
-    {
-        "title": "Unemployment Rate",
-        "country": "CHF",
-        "date": "2024-01-09T01:45:00-05:00",
-        "impact": "Low",
-        "forecast": "2.2%",
-        "previous": "2.1%"
-    },
-    {
-        "title": "German Industrial Production m/m",
-        "country": "EUR",
-        "date": "2024-01-09T02:00:00-05:00",
-        "impact": "Low",
-        "forecast": "0.4%",
-        "previous": "-0.4%"
-    },
-    {
-        "title": "French Trade Balance",
-        "country": "EUR",
-        "date": "2024-01-09T02:45:00-05:00",
-        "impact": "Low",
-        "forecast": "-7.9B",
-        "previous": "-8.6B"
-    },
-    {
-        "title": "Foreign Currency Reserves",
-        "country": "CHF",
-        "date": "2024-01-09T03:00:00-05:00",
-        "impact": "Medium",
         "forecast": "",
-        "previous": "642B"
+        "previous": "58.4"
     },
     {
-        "title": "Italian Monthly Unemployment Rate",
-        "country": "EUR",
-        "date": "2024-01-09T04:00:00-05:00",
+        "title": "Private Sector Credit m/m",
+        "country": "AUD",
+        "date": "2025-03-30T20:30:00-04:00",
         "impact": "Low",
-        "forecast": "7.8%",
-        "previous": "7.8%"
+        "forecast": "0.5%",
+        "previous": "0.5%"
+    },
+    {
+        "title": "Manufacturing PMI",
+        "country": "CNY",
+        "date": "2025-03-30T21:30:00-04:00",
+        "impact": "High",
+        "forecast": "50.4",
+        "previous": "50.2"
+    },
+    {
+        "title": "Non-Manufacturing PMI",
+        "country": "CNY",
+        "date": "2025-03-30T21:30:00-04:00",
+        "impact": "Medium",
+        "forecast": "50.5",
+        "previous": "50.4"
+    },
+    {
+        "title": "Housing Starts y/y",
+        "country": "JPY",
+        "date": "2025-03-31T01:00:00-04:00",
+        "impact": "Low",
+        "forecast": "-2.3%",
+        "previous": "-4.6%"
+    },
+    {
+        "title": "German Import Prices m/m",
+        "country": "EUR",
+        "date": "2025-03-31T02:00:00-04:00",
+        "impact": "Low",
+        "forecast": "0.0%",
+        "previous": "1.1%"
+    },
+    {
+        "title": "German Retail Sales m/m",
+        "country": "EUR",
+        "date": "2025-03-31T02:00:00-04:00",
+        "impact": "Low",
+        "forecast": "0.0%",
+        "previous": "0.2%"
+    },
+    {
+        "title": "German Prelim CPI m/m",
+        "country": "EUR",
+        "date": "2025-03-31T02:29:00-04:00",
+        "impact": "High",
+        "forecast": "0.3%",
+        "previous": "0.4%"
+    },
+    {
+        "title": "M4 Money Supply m/m",
+        "country": "GBP",
+        "date": "2025-03-31T04:30:00-04:00",
+        "impact": "Low",
+        "forecast": "1.1%",
+        "previous": "1.3%"
+    },
+    {
+        "title": "Mortgage Approvals",
+        "country": "GBP",
+        "date": "2025-03-31T04:30:00-04:00",
+        "impact": "Low",
+        "forecast": "66K",
+        "previous": "66K"
+    },
+    {
+        "title": "Net Lending to Individuals m/m",
+        "country": "GBP",
+        "date": "2025-03-31T04:30:00-04:00",
+        "impact": "Low",
+        "forecast": "4.9B",
+        "previous": "5.9B"
+    },
+    {
+        "title": "Italian Prelim CPI m/m",
+        "country": "EUR",
+        "date": "2025-03-31T05:00:00-04:00",
+        "impact": "Low",
+        "forecast": "0.0%",
+        "previous": "0.2%"
+    },
+    {
+        "title": "Chicago PMI",
+        "country": "USD",
+        "date": "2025-03-31T09:45:00-04:00",
+        "impact": "Low",
+        "forecast": "45.5",
+        "previous": "45.5"
+    },
+    {
+        "title": "BRC Shop Price Index y/y",
+        "country": "GBP",
+        "date": "2025-03-31T19:01:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": "-0.7%"
     },
     {
         "title": "Unemployment Rate",
-        "country": "EUR",
-        "date": "2024-01-09T05:00:00-05:00",
+        "country": "JPY",
+        "date": "2025-03-31T19:30:00-04:00",
         "impact": "Low",
-        "forecast": "6.5%",
-        "previous": "6.5%"
+        "forecast": "2.5%",
+        "previous": "2.5%"
     },
     {
-        "title": "NFIB Small Business Index",
-        "country": "USD",
-        "date": "2024-01-09T06:00:00-05:00",
+        "title": "Tankan Manufacturing Index",
+        "country": "JPY",
+        "date": "2025-03-31T19:50:00-04:00",
         "impact": "Low",
-        "forecast": "90.7",
-        "previous": "90.6"
+        "forecast": "12",
+        "previous": "14"
     },
     {
-        "title": "Building Permits m/m",
-        "country": "CAD",
-        "date": "2024-01-09T08:30:00-05:00",
+        "title": "Tankan Non-Manufacturing Index",
+        "country": "JPY",
+        "date": "2025-03-31T19:50:00-04:00",
         "impact": "Low",
-        "forecast": "-1.5%",
-        "previous": "2.3%"
+        "forecast": "33",
+        "previous": "33"
     },
     {
-        "title": "Trade Balance",
-        "country": "CAD",
-        "date": "2024-01-09T08:30:00-05:00",
-        "impact": "Low",
-        "forecast": "2.0B",
-        "previous": "3.0B"
+        "title": "Retail Sales m/m",
+        "country": "AUD",
+        "date": "2025-03-31T20:30:00-04:00",
+        "impact": "Medium",
+        "forecast": "0.3%",
+        "previous": "0.3%"
     },
     {
-        "title": "Trade Balance",
-        "country": "USD",
-        "date": "2024-01-09T08:30:00-05:00",
+        "title": "Final Manufacturing PMI",
+        "country": "JPY",
+        "date": "2025-03-31T20:30:00-04:00",
         "impact": "Low",
-        "forecast": "-64.9B",
-        "previous": "-64.3B"
+        "forecast": "48.3",
+        "previous": "48.3"
     },
     {
-        "title": "RCM/TIPP Economic Optimism",
-        "country": "USD",
-        "date": "2024-01-09T10:02:00-05:00",
+        "title": "Caixin Manufacturing PMI",
+        "country": "CNY",
+        "date": "2025-03-31T21:45:00-04:00",
         "impact": "Low",
-        "forecast": "42.0",
-        "previous": "40.0"
+        "forecast": "50.6",
+        "previous": "50.8"
     },
     {
-        "title": "FOMC Member Barr Speaks",
-        "country": "USD",
-        "date": "2024-01-09T12:00:00-05:00",
-        "impact": "Low",
+        "title": "Cash Rate",
+        "country": "AUD",
+        "date": "2025-03-31T23:30:00-04:00",
+        "impact": "High",
+        "forecast": "4.10%",
+        "previous": "4.10%"
+    },
+    {
+        "title": "RBA Rate Statement",
+        "country": "AUD",
+        "date": "2025-03-31T23:30:00-04:00",
+        "impact": "High",
         "forecast": "",
         "previous": ""
     },
     {
-        "title": "Average Cash Earnings y/y",
-        "country": "JPY",
-        "date": "2024-01-09T18:30:00-05:00",
-        "impact": "Low",
-        "forecast": "1.5%",
-        "previous": "1.5%"
-    },
-    {
-        "title": "ANZ Commodity Prices m/m",
-        "country": "NZD",
-        "date": "2024-01-09T19:00:00-05:00",
-        "impact": "Low",
-        "forecast": "",
-        "previous": "-1.3%"
-    },
-    {
-        "title": "CPI y/y",
+        "title": "RBA Press Conference",
         "country": "AUD",
-        "date": "2024-01-09T19:30:00-05:00",
-        "impact": "High",
-        "forecast": "4.4%",
-        "previous": "4.9%"
+        "date": "2025-04-01T00:30:00-04:00",
+        "impact": "Medium",
+        "forecast": "",
+        "previous": ""
     },
     {
-        "title": "10-y Bond Auction",
-        "country": "JPY",
-        "date": "2024-01-09T22:35:00-05:00",
+        "title": "Commodity Prices y/y",
+        "country": "AUD",
+        "date": "2025-04-01T01:30:00-04:00",
         "impact": "Low",
         "forecast": "",
-        "previous": "0.70|2.8"
+        "previous": "-8.2%"
     },
     {
-        "title": "French Industrial Production m/m",
-        "country": "EUR",
-        "date": "2024-01-10T02:45:00-05:00",
-        "impact": "Low",
-        "forecast": "0.1%",
-        "previous": "-0.3%"
-    },
-    {
-        "title": "Italian Retail Sales m/m",
-        "country": "EUR",
-        "date": "2024-01-10T04:00:00-05:00",
+        "title": "Nationwide HPI m/m",
+        "country": "GBP",
+        "date": "2025-04-01T02:02:00-04:00",
         "impact": "Low",
         "forecast": "0.2%",
         "previous": "0.4%"
     },
     {
-        "title": "German 10-y Bond Auction",
-        "country": "EUR",
-        "date": "2024-01-10T05:34:00-05:00",
+        "title": "Retail Sales y/y",
+        "country": "CHF",
+        "date": "2025-04-01T02:30:00-04:00",
         "impact": "Low",
-        "forecast": "",
-        "previous": "2.45|1.7"
+        "forecast": "1.5%",
+        "previous": "1.3%"
     },
     {
-        "title": "BOE Gov Bailey Speaks",
+        "title": "Spanish Manufacturing PMI",
+        "country": "EUR",
+        "date": "2025-04-01T03:15:00-04:00",
+        "impact": "Low",
+        "forecast": "49.8",
+        "previous": "49.7"
+    },
+    {
+        "title": "Manufacturing PMI",
+        "country": "CHF",
+        "date": "2025-04-01T03:30:00-04:00",
+        "impact": "Low",
+        "forecast": "50.4",
+        "previous": "49.6"
+    },
+    {
+        "title": "Italian Manufacturing PMI",
+        "country": "EUR",
+        "date": "2025-04-01T03:45:00-04:00",
+        "impact": "Low",
+        "forecast": "47.9",
+        "previous": "47.4"
+    },
+    {
+        "title": "French Final Manufacturing PMI",
+        "country": "EUR",
+        "date": "2025-04-01T03:50:00-04:00",
+        "impact": "Low",
+        "forecast": "48.9",
+        "previous": "48.9"
+    },
+    {
+        "title": "German Final Manufacturing PMI",
+        "country": "EUR",
+        "date": "2025-04-01T03:55:00-04:00",
+        "impact": "Low",
+        "forecast": "48.4",
+        "previous": "48.3"
+    },
+    {
+        "title": "Final Manufacturing PMI",
+        "country": "EUR",
+        "date": "2025-04-01T04:00:00-04:00",
+        "impact": "Low",
+        "forecast": "48.7",
+        "previous": "48.7"
+    },
+    {
+        "title": "Italian Monthly Unemployment Rate",
+        "country": "EUR",
+        "date": "2025-04-01T04:00:00-04:00",
+        "impact": "Low",
+        "forecast": "6.3%",
+        "previous": "6.3%"
+    },
+    {
+        "title": "MPC Member Greene Speaks",
         "country": "GBP",
-        "date": "2024-01-10T09:15:00-05:00",
+        "date": "2025-04-01T04:15:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Final Manufacturing PMI",
+        "country": "GBP",
+        "date": "2025-04-01T04:30:00-04:00",
+        "impact": "Low",
+        "forecast": "44.6",
+        "previous": "44.6"
+    },
+    {
+        "title": "Core CPI Flash Estimate y/y",
+        "country": "EUR",
+        "date": "2025-04-01T05:00:00-04:00",
+        "impact": "Medium",
+        "forecast": "2.5%",
+        "previous": "2.6%"
+    },
+    {
+        "title": "CPI Flash Estimate y/y",
+        "country": "EUR",
+        "date": "2025-04-01T05:00:00-04:00",
+        "impact": "Medium",
+        "forecast": "2.2%",
+        "previous": "2.4%"
+    },
+    {
+        "title": "Unemployment Rate",
+        "country": "EUR",
+        "date": "2025-04-01T05:00:00-04:00",
+        "impact": "Low",
+        "forecast": "6.2%",
+        "previous": "6.2%"
+    },
+    {
+        "title": "ECB President Lagarde Speaks",
+        "country": "EUR",
+        "date": "2025-04-01T08:30:00-04:00",
+        "impact": "Medium",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "FOMC Member Barkin Speaks",
+        "country": "USD",
+        "date": "2025-04-01T09:00:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Manufacturing PMI",
+        "country": "CAD",
+        "date": "2025-04-01T09:30:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": "47.8"
+    },
+    {
+        "title": "Final Manufacturing PMI",
+        "country": "USD",
+        "date": "2025-04-01T09:45:00-04:00",
+        "impact": "Medium",
+        "forecast": "49.8",
+        "previous": "49.8"
+    },
+    {
+        "title": "ISM Manufacturing PMI",
+        "country": "USD",
+        "date": "2025-04-01T10:00:00-04:00",
+        "impact": "High",
+        "forecast": "49.5",
+        "previous": "50.3"
+    },
+    {
+        "title": "JOLTS Job Openings",
+        "country": "USD",
+        "date": "2025-04-01T10:00:00-04:00",
+        "impact": "High",
+        "forecast": "7.69M",
+        "previous": "7.74M"
+    },
+    {
+        "title": "ISM Manufacturing Prices",
+        "country": "USD",
+        "date": "2025-04-01T10:00:00-04:00",
+        "impact": "Medium",
+        "forecast": "64.6",
+        "previous": "62.4"
+    },
+    {
+        "title": "Construction Spending m/m",
+        "country": "USD",
+        "date": "2025-04-01T10:00:00-04:00",
+        "impact": "Low",
+        "forecast": "0.3%",
+        "previous": "-0.2%"
+    },
+    {
+        "title": "Wards Total Vehicle Sales",
+        "country": "USD",
+        "date": "2025-04-01T10:15:00-04:00",
+        "impact": "Low",
+        "forecast": "16.1M",
+        "previous": "16.0M"
+    },
+    {
+        "title": "RCM/TIPP Economic Optimism",
+        "country": "USD",
+        "date": "2025-04-01T10:34:00-04:00",
+        "impact": "Low",
+        "forecast": "50.1",
+        "previous": "49.8"
+    },
+    {
+        "title": "GDT Price Index",
+        "country": "NZD",
+        "date": "2025-04-01T10:57:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": "0.0%"
+    },
+    {
+        "title": "Building Consents m/m",
+        "country": "NZD",
+        "date": "2025-04-01T17:45:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": "2.6%"
+    },
+    {
+        "title": "RBA Assist Gov Kent Speaks",
+        "country": "AUD",
+        "date": "2025-04-01T19:25:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Monetary Base y/y",
+        "country": "JPY",
+        "date": "2025-04-01T19:50:00-04:00",
+        "impact": "Low",
+        "forecast": "-1.5%",
+        "previous": "-1.8%"
+    },
+    {
+        "title": "Building Approvals m/m",
+        "country": "AUD",
+        "date": "2025-04-01T20:30:00-04:00",
+        "impact": "Low",
+        "forecast": "-1.4%",
+        "previous": "6.3%"
+    },
+    {
+        "title": "French Gov Budget Balance",
+        "country": "EUR",
+        "date": "2025-04-02T02:45:00-04:00",
+        "impact": "Low",
+        "forecast": "-30.2B",
+        "previous": "-17.3B"
+    },
+    {
+        "title": "Spanish Unemployment Change",
+        "country": "EUR",
+        "date": "2025-04-02T03:00:00-04:00",
+        "impact": "Low",
+        "forecast": "-2.5K",
+        "previous": "-6.0K"
+    },
+    {
+        "title": "German 10-y Bond Auction",
+        "country": "EUR",
+        "date": "2025-04-02T05:42:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": "2.92|2.1"
+    },
+    {
+        "title": "ADP Non-Farm Employment Change",
+        "country": "USD",
+        "date": "2025-04-02T08:15:00-04:00",
+        "impact": "High",
+        "forecast": "118K",
+        "previous": "77K"
+    },
+    {
+        "title": "Factory Orders m/m",
+        "country": "USD",
+        "date": "2025-04-02T10:00:00-04:00",
+        "impact": "Low",
+        "forecast": "0.5%",
+        "previous": "1.7%"
+    },
+    {
+        "title": "Crude Oil Inventories",
+        "country": "USD",
+        "date": "2025-04-02T10:30:00-04:00",
+        "impact": "Low",
+        "forecast": "-0.4M",
+        "previous": "-3.3M"
+    },
+    {
+        "title": "President Trump Speaks",
+        "country": "USD",
+        "date": "2025-04-02T16:00:00-04:00",
         "impact": "High",
         "forecast": "",
         "previous": ""
     },
     {
-        "title": "Final Wholesale Inventories m/m",
+        "title": "FOMC Member Kugler Speaks",
         "country": "USD",
-        "date": "2024-01-10T10:00:00-05:00",
-        "impact": "Low",
-        "forecast": "-0.2%",
-        "previous": "-0.2%"
-    },
-    {
-        "title": "Crude Oil Inventories",
-        "country": "USD",
-        "date": "2024-01-10T10:30:00-05:00",
-        "impact": "Low",
-        "forecast": "-0.2M",
-        "previous": "-5.5M"
-    },
-    {
-        "title": "10-y Bond Auction",
-        "country": "USD",
-        "date": "2024-01-10T13:01:00-05:00",
-        "impact": "Medium",
-        "forecast": "",
-        "previous": "4.30|2.5"
-    },
-    {
-        "title": "FOMC Member Williams Speaks",
-        "country": "USD",
-        "date": "2024-01-10T15:15:00-05:00",
+        "date": "2025-04-02T16:30:00-04:00",
         "impact": "Low",
         "forecast": "",
         "previous": ""
     },
     {
-        "title": "Building Consents m/m",
+        "title": "ANZ Commodity Prices m/m",
         "country": "NZD",
-        "date": "2024-01-10T16:45:00-05:00",
+        "date": "2025-04-02T20:00:00-04:00",
         "impact": "Low",
         "forecast": "",
-        "previous": "8.7%"
+        "previous": "3.0%"
     },
     {
         "title": "Goods Trade Balance",
         "country": "AUD",
-        "date": "2024-01-10T19:30:00-05:00",
+        "date": "2025-04-02T20:30:00-04:00",
         "impact": "Low",
-        "forecast": "7.50B",
-        "previous": "7.13B"
+        "forecast": "5.38B",
+        "previous": "5.62B"
     },
     {
-        "title": "Leading Indicators",
-        "country": "JPY",
-        "date": "2024-01-11T00:00:00-05:00",
-        "impact": "Low",
-        "forecast": "107.9%",
-        "previous": "108.7%"
-    },
-    {
-        "title": "ECB Economic Bulletin",
-        "country": "EUR",
-        "date": "2024-01-11T04:00:00-05:00",
+        "title": "RBA Financial Stability Review",
+        "country": "AUD",
+        "date": "2025-04-02T20:30:00-04:00",
         "impact": "Low",
         "forecast": "",
         "previous": ""
     },
     {
-        "title": "Italian Industrial Production m/m",
+        "title": "Caixin Services PMI",
+        "country": "CNY",
+        "date": "2025-04-02T21:45:00-04:00",
+        "impact": "Low",
+        "forecast": "51.5",
+        "previous": "51.4"
+    },
+    {
+        "title": "10-y Bond Auction",
+        "country": "JPY",
+        "date": "2025-04-02T23:35:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": "1.40|2.7"
+    },
+    {
+        "title": "CPI m/m",
+        "country": "CHF",
+        "date": "2025-04-03T02:30:00-04:00",
+        "impact": "High",
+        "forecast": "0.1%",
+        "previous": "0.6%"
+    },
+    {
+        "title": "Spanish Services PMI",
         "country": "EUR",
-        "date": "2024-01-11T04:00:00-05:00",
+        "date": "2025-04-03T03:15:00-04:00",
         "impact": "Low",
-        "forecast": "-0.2%",
-        "previous": "-0.2%"
+        "forecast": "55.6",
+        "previous": "56.2"
     },
     {
-        "title": "New Loans",
-        "country": "CNY",
-        "date": "2024-01-11T04:03:00-05:00",
+        "title": "Italian Services PMI",
+        "country": "EUR",
+        "date": "2025-04-03T03:45:00-04:00",
+        "impact": "Low",
+        "forecast": "52.6",
+        "previous": "53.0"
+    },
+    {
+        "title": "French Final Services PMI",
+        "country": "EUR",
+        "date": "2025-04-03T03:50:00-04:00",
+        "impact": "Low",
+        "forecast": "46.6",
+        "previous": "46.6"
+    },
+    {
+        "title": "German Final Services PMI",
+        "country": "EUR",
+        "date": "2025-04-03T03:55:00-04:00",
+        "impact": "Low",
+        "forecast": "50.2",
+        "previous": "50.2"
+    },
+    {
+        "title": "Final Services PMI",
+        "country": "EUR",
+        "date": "2025-04-03T04:00:00-04:00",
+        "impact": "Low",
+        "forecast": "50.4",
+        "previous": "50.4"
+    },
+    {
+        "title": "Gov Board Member Tschudin Speaks",
+        "country": "CHF",
+        "date": "2025-04-03T04:30:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Final Services PMI",
+        "country": "GBP",
+        "date": "2025-04-03T04:30:00-04:00",
+        "impact": "Low",
+        "forecast": "53.2",
+        "previous": "53.2"
+    },
+    {
+        "title": "PPI m/m",
+        "country": "EUR",
+        "date": "2025-04-03T05:00:00-04:00",
+        "impact": "Low",
+        "forecast": "0.3%",
+        "previous": "0.8%"
+    },
+    {
+        "title": "OPEC-JMMC Meetings",
+        "country": "All",
+        "date": "2025-04-03T05:15:00-04:00",
         "impact": "Medium",
-        "forecast": "1360B",
-        "previous": "1090B"
+        "forecast": "",
+        "previous": ""
     },
     {
-        "title": "M2 Money Supply y/y",
-        "country": "CNY",
-        "date": "2024-01-11T04:03:00-05:00",
+        "title": "French 10-y Bond Auction",
+        "country": "EUR",
+        "date": "2025-04-03T05:18:00-04:00",
         "impact": "Low",
-        "forecast": "10.1%",
-        "previous": "10.0%"
+        "forecast": "",
+        "previous": "3.51|2.7"
     },
     {
-        "title": "Core CPI m/m",
+        "title": "ECB Monetary Policy Meeting Accounts",
+        "country": "EUR",
+        "date": "2025-04-03T07:30:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Challenger Job Cuts y/y",
         "country": "USD",
-        "date": "2024-01-11T08:30:00-05:00",
+        "date": "2025-04-03T07:30:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": "103.2%"
+    },
+    {
+        "title": "Trade Balance",
+        "country": "CAD",
+        "date": "2025-04-03T08:30:00-04:00",
+        "impact": "Low",
+        "forecast": "3.4B",
+        "previous": "4.0B"
+    },
+    {
+        "title": "Unemployment Claims",
+        "country": "USD",
+        "date": "2025-04-03T08:30:00-04:00",
+        "impact": "High",
+        "forecast": "225K",
+        "previous": "224K"
+    },
+    {
+        "title": "Trade Balance",
+        "country": "USD",
+        "date": "2025-04-03T08:30:00-04:00",
+        "impact": "Low",
+        "forecast": "-122.5B",
+        "previous": "-131.4B"
+    },
+    {
+        "title": "Final Services PMI",
+        "country": "USD",
+        "date": "2025-04-03T09:45:00-04:00",
+        "impact": "Medium",
+        "forecast": "54.1",
+        "previous": "54.3"
+    },
+    {
+        "title": "ISM Services PMI",
+        "country": "USD",
+        "date": "2025-04-03T10:00:00-04:00",
+        "impact": "High",
+        "forecast": "53.0",
+        "previous": "53.5"
+    },
+    {
+        "title": "Natural Gas Storage",
+        "country": "USD",
+        "date": "2025-04-03T10:30:00-04:00",
+        "impact": "Low",
+        "forecast": "27B",
+        "previous": "37B"
+    },
+    {
+        "title": "FOMC Member Jefferson Speaks",
+        "country": "USD",
+        "date": "2025-04-03T12:00:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "FOMC Member Cook Speaks",
+        "country": "USD",
+        "date": "2025-04-03T14:30:00-04:00",
+        "impact": "Low",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Household Spending y/y",
+        "country": "JPY",
+        "date": "2025-04-03T19:30:00-04:00",
+        "impact": "Low",
+        "forecast": "-0.9%",
+        "previous": "0.8%"
+    },
+    {
+        "title": "Bank Holiday",
+        "country": "CNY",
+        "date": "2025-04-03T20:01:00-04:00",
+        "impact": "Holiday",
+        "forecast": "",
+        "previous": ""
+    },
+    {
+        "title": "Unemployment Rate",
+        "country": "CHF",
+        "date": "2025-04-04T01:45:00-04:00",
+        "impact": "Low",
+        "forecast": "2.7%",
+        "previous": "2.7%"
+    },
+    {
+        "title": "German Factory Orders m/m",
+        "country": "EUR",
+        "date": "2025-04-04T02:00:00-04:00",
+        "impact": "Low",
+        "forecast": "3.4%",
+        "previous": "-7.0%"
+    },
+    {
+        "title": "French Industrial Production m/m",
+        "country": "EUR",
+        "date": "2025-04-04T02:45:00-04:00",
+        "impact": "Low",
+        "forecast": "0.5%",
+        "previous": "-0.6%"
+    },
+    {
+        "title": "Italian Retail Sales m/m",
+        "country": "EUR",
+        "date": "2025-04-04T04:00:00-04:00",
+        "impact": "Low",
+        "forecast": "0.2%",
+        "previous": "-0.4%"
+    },
+    {
+        "title": "Construction PMI",
+        "country": "GBP",
+        "date": "2025-04-04T04:30:00-04:00",
+        "impact": "Medium",
+        "forecast": "46.3",
+        "previous": "44.6"
+    },
+    {
+        "title": "Housing Equity Withdrawal q/q",
+        "country": "GBP",
+        "date": "2025-04-04T04:30:00-04:00",
+        "impact": "Low",
+        "forecast": "-10.8B",
+        "previous": "-12.5B"
+    },
+    {
+        "title": "Employment Change",
+        "country": "CAD",
+        "date": "2025-04-04T08:30:00-04:00",
+        "impact": "High",
+        "forecast": "10.4K",
+        "previous": "1.1K"
+    },
+    {
+        "title": "Unemployment Rate",
+        "country": "CAD",
+        "date": "2025-04-04T08:30:00-04:00",
+        "impact": "High",
+        "forecast": "6.7%",
+        "previous": "6.6%"
+    },
+    {
+        "title": "Average Hourly Earnings m/m",
+        "country": "USD",
+        "date": "2025-04-04T08:30:00-04:00",
         "impact": "High",
         "forecast": "0.3%",
         "previous": "0.3%"
     },
     {
-        "title": "CPI m/m",
+        "title": "Non-Farm Employment Change",
         "country": "USD",
-        "date": "2024-01-11T08:30:00-05:00",
+        "date": "2025-04-04T08:30:00-04:00",
         "impact": "High",
-        "forecast": "0.2%",
-        "previous": "0.1%"
+        "forecast": "137K",
+        "previous": "151K"
     },
     {
-        "title": "CPI y/y",
+        "title": "Unemployment Rate",
         "country": "USD",
-        "date": "2024-01-11T08:30:00-05:00",
+        "date": "2025-04-04T08:30:00-04:00",
         "impact": "High",
-        "forecast": "3.2%",
-        "previous": "3.1%"
+        "forecast": "4.1%",
+        "previous": "4.1%"
     },
     {
-        "title": "Unemployment Claims",
+        "title": "Fed Chair Powell Speaks",
         "country": "USD",
-        "date": "2024-01-11T08:30:00-05:00",
+        "date": "2025-04-04T11:25:00-04:00",
         "impact": "High",
-        "forecast": "209K",
-        "previous": "202K"
+        "forecast": "",
+        "previous": ""
     },
     {
-        "title": "Natural Gas Storage",
+        "title": "FOMC Member Barr Speaks",
         "country": "USD",
-        "date": "2024-01-11T10:30:00-05:00",
+        "date": "2025-04-04T12:00:00-04:00",
         "impact": "Low",
-        "forecast": "-120B",
-        "previous": "-14B"
+        "forecast": "",
+        "previous": ""
     },
     {
-        "title": "30-y Bond Auction",
+        "title": "FOMC Member Waller Speaks",
         "country": "USD",
-        "date": "2024-01-11T13:01:00-05:00",
+        "date": "2025-04-04T12:45:00-04:00",
         "impact": "Medium",
         "forecast": "",
-        "previous": "4.34|2.4"
+        "previous": ""
     },
     {
-        "title": "Federal Budget Balance",
-        "country": "USD",
-        "date": "2024-01-11T14:00:00-05:00",
-        "impact": "Low",
-        "forecast": "-66.2B",
-        "previous": "-314.0B"
-    },
-    {
-        "title": "Bank Lending y/y",
-        "country": "JPY",
-        "date": "2024-01-11T18:50:00-05:00",
-        "impact": "Low",
-        "forecast": "2.7%",
-        "previous": "2.8%"
-    },
-    {
-        "title": "Current Account",
-        "country": "JPY",
-        "date": "2024-01-11T18:50:00-05:00",
-        "impact": "Low",
-        "forecast": "2.18T",
-        "previous": "2.62T"
-    },
-    {
-        "title": "CPI y/y",
-        "country": "CNY",
-        "date": "2024-01-11T20:30:00-05:00",
-        "impact": "High",
-        "forecast": "-0.4%",
-        "previous": "-0.5%"
-    },
-    {
-        "title": "PPI y/y",
-        "country": "CNY",
-        "date": "2024-01-11T20:30:00-05:00",
-        "impact": "Medium",
-        "forecast": "-2.6%",
-        "previous": "-3.0%"
-    },
-    {
-        "title": "Trade Balance",
-        "country": "CNY",
-        "date": "2024-01-11T22:03:00-05:00",
-        "impact": "Low",
-        "forecast": "520B",
-        "previous": "491B"
-    },
-    {
-        "title": "USD-Denominated Trade Balance",
-        "country": "CNY",
-        "date": "2024-01-11T22:04:00-05:00",
-        "impact": "Low",
-        "forecast": "76.2B",
-        "previous": "68.4B"
-    },
-    {
-        "title": "30-y Bond Auction",
-        "country": "JPY",
-        "date": "2024-01-11T22:35:00-05:00",
-        "impact": "Low",
+        "title": "Daylight Saving Time Shift",
+        "country": "NZD",
+        "date": "2025-04-05T10:00:00-04:00",
+        "impact": "Holiday",
         "forecast": "",
-        "previous": "1.62|2.6"
+        "previous": ""
     },
     {
-        "title": "Economy Watchers Sentiment",
-        "country": "JPY",
-        "date": "2024-01-12T00:00:00-05:00",
-        "impact": "Low",
-        "forecast": "49.9",
-        "previous": "49.5"
-    },
-    {
-        "title": "GDP m/m",
-        "country": "GBP",
-        "date": "2024-01-12T02:00:00-05:00",
-        "impact": "High",
-        "forecast": "0.2%",
-        "previous": "-0.3%"
-    },
-    {
-        "title": "Construction Output m/m",
-        "country": "GBP",
-        "date": "2024-01-12T02:00:00-05:00",
-        "impact": "Low",
-        "forecast": "0.2%",
-        "previous": "-0.5%"
-    },
-    {
-        "title": "Goods Trade Balance",
-        "country": "GBP",
-        "date": "2024-01-12T02:00:00-05:00",
-        "impact": "Low",
-        "forecast": "-15.7B",
-        "previous": "-17.0B"
-    },
-    {
-        "title": "Index of Services 3m/3m",
-        "country": "GBP",
-        "date": "2024-01-12T02:00:00-05:00",
-        "impact": "Low",
-        "forecast": "0.1%",
-        "previous": "0.1%"
-    },
-    {
-        "title": "Industrial Production m/m",
-        "country": "GBP",
-        "date": "2024-01-12T02:00:00-05:00",
-        "impact": "Low",
-        "forecast": "0.3%",
-        "previous": "-0.8%"
-    },
-    {
-        "title": "Manufacturing Production m/m",
-        "country": "GBP",
-        "date": "2024-01-12T02:00:00-05:00",
-        "impact": "Low",
-        "forecast": "0.3%",
-        "previous": "-1.1%"
-    },
-    {
-        "title": "French Consumer Spending m/m",
-        "country": "EUR",
-        "date": "2024-01-12T02:45:00-05:00",
-        "impact": "Low",
-        "forecast": "-0.1%",
-        "previous": "-0.9%"
-    },
-    {
-        "title": "French Final CPI m/m",
-        "country": "EUR",
-        "date": "2024-01-12T02:45:00-05:00",
-        "impact": "Low",
-        "forecast": "0.1%",
-        "previous": "0.1%"
-    },
-    {
-        "title": "NIESR GDP Estimate",
-        "country": "GBP",
-        "date": "2024-01-12T08:03:00-05:00",
-        "impact": "Low",
+        "title": "Daylight Saving Time Shift",
+        "country": "AUD",
+        "date": "2025-04-05T12:00:00-04:00",
+        "impact": "Holiday",
         "forecast": "",
-        "previous": "-0.1%"
-    },
-    {
-        "title": "Core PPI m/m",
-        "country": "USD",
-        "date": "2024-01-12T08:30:00-05:00",
-        "impact": "High",
-        "forecast": "0.2%",
-        "previous": "0.0%"
-    },
-    {
-        "title": "PPI m/m",
-        "country": "USD",
-        "date": "2024-01-12T08:30:00-05:00",
-        "impact": "High",
-        "forecast": "0.1%",
-        "previous": "0.0%"
+        "previous": ""
     }
 ]

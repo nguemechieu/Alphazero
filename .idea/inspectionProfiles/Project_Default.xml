@@ -1,0 +1,56 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="QWidget" />
+            <item index="7" class="java.lang.String" itemvalue="QPushButton" />
+            <item index="8" class="java.lang.String" itemvalue="QLineEdit" />
+            <item index="9" class="java.lang.String" itemvalue="QTextEdit" />
+            <item index="10" class="java.lang.String" itemvalue="QGroupBox" />
+            <item index="11" class="java.lang.String" itemvalue="QRadioButton" />
+            <item index="12" class="java.lang.String" itemvalue="QComboBox" />
+            <item index="13" class="java.lang.String" itemvalue="QListWidget" />
+            <item index="14" class="java.lang.String" itemvalue="QTableWidget" />
+            <item index="15" class="java.lang.String" itemvalue="QSpinBox" />
+            <item index="16" class="java.lang.String" itemvalue="QCalendarWidget" />
+            <item index="17" class="java.lang.String" itemvalue="QSlider" />
+            <item index="18" class="java.lang.String" itemvalue="QProgressBar" />
+            <item index="19" class="java.lang.String" itemvalue="QLabel" />
+            <item index="20" class="java.lang.String" itemvalue="QHBoxLayout" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="fonttools" />
+            <item index="2" class="java.lang.String" itemvalue="six" />
+            <item index="3" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="4" class="java.lang.String" itemvalue="pip" />
+            <item index="5" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="6" class="java.lang.String" itemvalue="certifi" />
+            <item index="7" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="8" class="java.lang.String" itemvalue="setuptools" />
+            <item index="9" class="java.lang.String" itemvalue="numpy" />
+            <item index="10" class="java.lang.String" itemvalue="pytz" />
+            <item index="11" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
